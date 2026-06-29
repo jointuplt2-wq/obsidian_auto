@@ -1,0 +1,37 @@
+# ===== Obsidian =====
+# 개인 워크스페이스 레이아웃/세션 (기기마다 다름 → 제외)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# 캐시 / 자동 생성물
+.obsidian/cache
+.obsidian/.cache/
+
+# 플러그인 런타임 데이터/상태 (설정은 공유, 상태는 제외)
+.obsidian/plugins/*/data.json
+
+# Obsidian 휴지통
+.trash/
+
+# 공유하려면 아래는 추적 유지 (주석 처리된 상태 = 추적함):
+#   .obsidian/core-plugins.json
+#   .obsidian/community-plugins.json
+#   .obsidian/app.json
+#   .obsidian/appearance.json
+#   .obsidian/graph.json
+#   .obsidian/plugins/*/main.js, manifest.json, styles.css
+
+# ===== bkit 런타임 상태 (기기별 세션 데이터 → 제외) =====
+.bkit/runtime/
+.bkit/audit/
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# ===== 편집기 / 임시 =====
+*.tmp
+*.bak
+*~
