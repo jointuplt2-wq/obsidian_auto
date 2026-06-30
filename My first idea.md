@@ -1,0 +1,1 @@
+Linking notes helps my ideas grow.
