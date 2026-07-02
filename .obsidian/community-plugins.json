@@ -4,5 +4,6 @@
   "obsidian-tasks-plugin",
   "calendar",
   "templater-obsidian",
-  "obsidian-importer"
+  "obsidian-importer",
+  "obsidian-scroll-to-top-plugin"
 ]
