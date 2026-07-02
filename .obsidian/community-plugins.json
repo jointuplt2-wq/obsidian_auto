@@ -2,5 +2,7 @@
   "obsidian-git",
   "dataview",
   "obsidian-tasks-plugin",
-  "calendar"
+  "calendar",
+  "templater-obsidian",
+  "obsidian-importer"
 ]
