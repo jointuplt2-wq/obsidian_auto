@@ -9,6 +9,7 @@ description: "This week on Ask a Teacher, we answer a question from a listener a
 tags:
   - "clippings"
 ---
+
 <iframe src="https://learningenglish.voanews.com/embed/player/0/7986611.html?type=audio" frameborder="0" scrolling="no" width="100%" height="144" allowfullscreen></iframe>
 This week on *Ask a Teacher*, we answer the following question from a listener.
 

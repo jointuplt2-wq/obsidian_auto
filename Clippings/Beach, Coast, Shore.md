@@ -13,8 +13,6 @@ tags:
 
 ##### Beach, Coast, Shore
 
-The code has been copied to your clipboard.
-
 ---
 
 <iframe src="https://learningenglish.voanews.com/embed/player/0/7990005.html?type=audio" frameborder="0" scrolling="no" width="100%" height="144" allowfullscreen></iframe>
