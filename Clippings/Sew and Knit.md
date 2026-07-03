@@ -12,14 +12,10 @@ tags:
 ![Sew and Knit](https://gdb.voanews.com/031a0000-0aff-0242-72e3-08da3a7abf34_w250_r1.jpg "Sew and Knit")
 
 ##### Sew and Knit
-
-The code has been copied to your clipboard.
-
 ---
 
-No media source currently available
 
-3:46 3:46 0:00. [<iframe src="https://learningenglish.voanews.com/embed/player/0/8002807.html?type=audio" frameborder="0" scrolling="no" width="100%" height="144" allowfullscreen></iframe>]
+<iframe src="https://learningenglish.voanews.com/embed/player/0/8002807.html?type=audio" frameborder="0" scrolling="no" width="100%" height="144" allowfullscreen></iframe>
 
 This week on *Ask a Teacher*, we answer a question from Rohullah in Afghanistan about using the words “sew” and “knit” and related terms.
 
