@@ -19,8 +19,7 @@ The code has been copied to your clipboard.
 
 No media source currently available
 
-0:00 4:42 0:00
-
+0:00 4:42 0:00. [<iframe src="https://learningenglish.voanews.com/embed/player/0/7990005.html?type=audio" frameborder="0" scrolling="no" width="100%" height="144" allowfullscreen></iframe>]
 This week on *Ask a Teacher*, we answer a question from Doyeon in Korea about the usage of three similar words. Here is the question:
 
 *Hello.*

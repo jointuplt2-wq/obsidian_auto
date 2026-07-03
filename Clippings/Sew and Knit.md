@@ -19,7 +19,7 @@ The code has been copied to your clipboard.
 
 No media source currently available
 
-3:46 3:46 0:00
+3:46 3:46 0:00. [<iframe src="https://learningenglish.voanews.com/embed/player/0/8002807.html?type=audio" frameborder="0" scrolling="no" width="100%" height="144" allowfullscreen></iframe>]
 
 This week on *Ask a Teacher*, we answer a question from Rohullah in Afghanistan about using the words “sew” and “knit” and related terms.
 
