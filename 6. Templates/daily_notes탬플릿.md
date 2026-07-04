@@ -48,8 +48,8 @@ const quotes = [
   "노력하는 자에게 불가능이란 없다. — 나폴레옹",
   "오늘 걷지 않으면 내일은 뛰어야 한다. — 익명"
 ];
-const n = parseInt((tp.file.title.match(/\d/g) || []).join(""), 10) || 0;
-tR += "> [!quote] 오늘의 한마디\n> " + quotes[n % quotes.length] + "\n";
+const i = Math.floor(Math.random() * quotes.length);
+tR += "> [!quote] 오늘의 한마디\n> " + quotes[i] + "\n";
 %>
 
 ---
