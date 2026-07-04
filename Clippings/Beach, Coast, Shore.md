@@ -9,7 +9,6 @@ description: "This week on Ask a Teacher, we answer a question from Doyeon in Ko
 tags:
   - "clippings"
 ---
-![Beach, Coast, Shore](https://gdb.voanews.com/031a0000-0aff-0242-72e3-08da3a7abf34_w250_r1.jpg "Beach, Coast, Shore") ![please wait](https://learningenglish.voanews.com/Content/responsive/img/player-spinner.png "please wait")
 
 ##### Beach, Coast, Shore
 
