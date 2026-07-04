@@ -1,0 +1,58 @@
+---
+date_daily: 2026-07-02(Thu)
+achievement:
+reading_book:
+emotion:
+important-date: false
+tags:
+  - clippings
+  - daily
+---
+
+<% tp.web.daily_quote() %>
+
+##내일 기억 할 일
+-
+##오늘 기억 할 일
+<%*  
+  
+let yesterday =  
+"daily_notes/" +  
+tp.date.now("YYYY-MM-DD(ddd)", -1, tp.file.title, "YYYY-MM-DD(ddd)");  
+  
+let section = "## 내일 기억할 일";  
+let should_include = false;  
+let sectionContent = "";  
+  
+let yfile = tp.file.find_tfile(yesterday);  
+  
+if (yfile) {  
+const content = await app.vault.read(yfile);  
+  
+if (content.includes(section)) {  
+let startIndex = content.indexOf(section) + section.length;  
+let endIndex = content.indexOf("\n##", startIndex);  
+  
+endIndex = endIndex === -1 ? content.length : endIndex;  
+  
+sectionContent = content.substring(startIndex, endIndex).trim();  
+should_include = sectionContent.length > 0;  
+}  
+}  
+  
+tR += should_include ? sectionContent : "없습니다😄";  
+  
+%>
+
+##오늘의 목표
+-
+-
+- [ ] 
+
+##할 일 추가하기
+- [ ] 
+- [ ] 
+
+##독서
+- 읽은 책
+- 읽은 페이지
