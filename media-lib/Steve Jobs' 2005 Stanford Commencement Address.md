@@ -30,6 +30,8 @@ tags:
 view_count: 48708828
 cover: https://i.ytimg.com/vi/UF8uR6Z6KLc/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AG-AoAC8AGKAgwIABABGGUgTShAMA8=&rs=AOn4CLBQpu5eC9IARIhuqaqee1Zc53SWpw
 aspect_ratio: 4 / 3
+subtitles:
+  - "[[jv4b0e2srlv0chd3d6dotvk6.682N.ko.vtt#lang=ko&label=%ED%95%9C%EA%B5%AD%EC%96%B4+%28translated%29]]"
 ---
 
 - [00:40](https://www.youtube.com/watch?v=UF8uR6Z6KLc&t=40#t=00:40.15) 
