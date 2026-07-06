@@ -32,6 +32,8 @@ cover: https://i.ytimg.com/vi/UF8uR6Z6KLc/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quK
 aspect_ratio: 4 / 3
 subtitles:
   - "[[jv4b0e2srlv0chd3d6dotvk6.682N.ko.vtt#lang=ko&label=%ED%95%9C%EA%B5%AD%EC%96%B4+%28translated%29]]"
+captions:
+  - "[[jv4b0e2srlv0chd3d6dotvk6.A3Xe.en.vtt#lang=en&label=%EC%98%81%EC%96%B4+%28%EC%9E%90%EB%8F%99+%EC%83%9D%EC%84%B1%EB%90%A8%29]]"
 ---
 
 - [00:40](https://www.youtube.com/watch?v=UF8uR6Z6KLc&t=40#t=00:40.15) 
