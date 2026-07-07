@@ -40,3 +40,5 @@ captions:
 - [00:40](https://www.youtube.com/watch?v=UF8uR6Z6KLc&t=40#t=00:40.15) 
 - [02:01](https://www.youtube.com/watch?v=UF8uR6Z6KLc&t=122#t=02:01.80) 
 - [00:18](https://www.youtube.com/watch?v=UF8uR6Z6KLc&t=18#t=00:18.25) 
+- [00:36](https://www.youtube.com/watch?v=UF8uR6Z6KLc&t=37#t=00:36.95) 
+- [00:57](https://www.youtube.com/watch?v=UF8uR6Z6KLc&t=58#t=00:57.91) 
