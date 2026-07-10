@@ -449,4 +449,4 @@ Literature 읽고 내 생각 정리
 
 ## Hub 파일
 
-`00_ZK_Hub.md` 사용법: [[0. Docs/Hub-운영-가이드]]
+`00_ZK_Hub.md` 사용법: [[Hub-운영-가이드]]
