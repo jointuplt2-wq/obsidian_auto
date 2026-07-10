@@ -64,7 +64,7 @@ tR += "> [!quote] 오늘의 한마디\n> " + quotes[i] + "\n";
 
 ```tasks
 not done
-happens before tomorrow
+path includes 할 일 관리
 short mode
 ```
 
