@@ -21,7 +21,10 @@ cssclasses: [dashboard]
 const types = ["project", "area", "resource", "literature", "permanent", "daily"];
 const labels = {project:"🚀 Projects", area:"🗂️ Areas", resource:"📚 Resources", literature:"📖 Literature", permanent:"💡 Permanent", daily:"📅 Daily"};
 const rows = types.map(t => {
-  const n = dv.pages().where(p => p.type === t).length;
+  // daily 노트는 type 필드 없이 tags: [daily]로 식별 → 태그 기반 집계 (템플릿 제외)
+  const n = t === "daily"
+    ? dv.pages().where(p => p.file.tags.includes("#daily") && !p.file.path.includes("6. Templates")).length
+    : dv.pages().where(p => p.type === t).length;
   return [labels[t], n];
 });
 // 고아 노트(연결 0개) 카운트 — 시스템 파일 제외
