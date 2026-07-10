@@ -62,6 +62,12 @@ tR += "> [!quote] 오늘의 한마디\n> " + quotes[i] + "\n";
 ## ✅ 할 일
 > 오늘의 루틴 목록: [[할 일 관리]]
 
+```tasks
+not done
+happens before tomorrow
+short mode
+```
+
 - [ ] 
 - [ ] 
 
