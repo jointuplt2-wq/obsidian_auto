@@ -31,6 +31,9 @@ const rows = types.map(t => {
 const orphans = dv.pages()
   .where(p => !p.file.path.toLowerCase().includes("claude")
            && !p.file.path.includes("6. Templates")
+           && !p.file.path.includes("media-lib")
+           && !p.file.path.includes("Clippings")
+           && !p.file.path.includes("5. Zettelkasten/00. Inbox")
            && p.file.name !== "00 Dashboard"
            && p.file.name !== "환영합니다!"
            && p.file.inlinks.length === 0
@@ -116,6 +119,9 @@ LIST
 WHERE length(file.inlinks) = 0 AND length(file.outlinks) = 0
   AND !contains(file.path, "CLAUDE") AND file.name != "claude"
   AND !contains(file.path, "6. Templates")
+  AND !contains(file.path, "media-lib")
+  AND !contains(file.path, "Clippings")
+  AND !contains(file.path, "5. Zettelkasten/00. Inbox")
   AND file.name != "00 Dashboard" AND file.name != "환영합니다!"
 SORT file.name ASC
 ```
