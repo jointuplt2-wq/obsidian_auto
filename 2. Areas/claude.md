@@ -264,4 +264,4 @@ sort due asc
 
 ## Hub 파일
 
-`00_Areas_Hub.md` 사용법: [[Hub-운영-가이드]]
+`00_Areas_Hub.md` 사용법: [[운영-가이드]]

@@ -613,14 +613,14 @@ status: todo
 
 ## Hub 파일
 
-Hub 파일(`00_XXX_Hub.md`) 운영 규칙: [[Hub-운영-가이드]]
+Hub 파일(`00_XXX_Hub.md`) 운영 규칙: [[운영-가이드]]
 
 ---
 
 ## 관련 문서
 
 - **변경 이력**: [[6. Templates/CHANGELOG]]
-- **Hub 시스템**: [[Hub-운영-가이드]]
+- **Hub 시스템**: [[운영-가이드]]
 - **루트 운영 지침**: [[CLAUDE]]
 
 ---

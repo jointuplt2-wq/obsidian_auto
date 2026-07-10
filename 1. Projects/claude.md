@@ -291,4 +291,4 @@ due: 2025-11-01
 
 ## Hub 파일
 
-`00_Projects_Hub.md` 사용법: [[Hub-운영-가이드]]
+`00_Projects_Hub.md` 사용법: [[운영-가이드]]
