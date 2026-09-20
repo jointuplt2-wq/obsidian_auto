@@ -3909,3 +3909,12 @@ settings:
   ,
   10 ;
 }
+
+/* ===== 표 첫 번째 칸(날짜) 줄바꿈 방지 — 2026-09-20 추가 ===== */
+/* 영어 표현 노트 목차의 날짜가 "2026-09-" / "20" 으로 잘리는 문제 해결 */
+.markdown-preview-view table td:first-child,
+.markdown-rendered table td:first-child,
+.markdown-source-view.mod-cm6 table td:first-child,
+.table-cell-wrapper:first-child {
+  white-space: nowrap !important;
+}

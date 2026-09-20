@@ -1,8 +1,0 @@
-/* 표 첫 번째 칸(날짜)이 줄바꿈되지 않게 하기 */
-/* 영어 표현 노트 목차의 날짜가 "2026-09-" / "20" 으로 잘리는 문제 해결 */
-
-.markdown-preview-view table td:first-child,
-.markdown-rendered table td:first-child,
-.markdown-source-view.mod-cm6 table td:first-child {
-  white-space: nowrap;
-}
