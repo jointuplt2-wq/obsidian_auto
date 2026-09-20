@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": "2026-09-20T05:09:29.775Z",
+    "errorType": "unknown",
+    "category": "unknown",
+    "severity": "low",
+    "agentId": null,
+    "agentType": null,
+    "message": ""
+  },
+  {
+    "timestamp": "2026-09-20T05:16:57.082Z",
+    "errorType": "unknown",
+    "category": "unknown",
+    "severity": "low",
+    "agentId": null,
+    "agentType": null,
+    "message": ""
+  }
+]
