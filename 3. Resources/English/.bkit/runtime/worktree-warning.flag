@@ -1,0 +1,8 @@
+{
+  "detectedAt": "2026-09-29T05:02:41.236Z",
+  "toplevel": "D:/Obsidian/AI Practice/Claude Code/Obsidian Automation",
+  "gitDir": "D:\\Obsidian\\AI Practice\\Claude Code\\Obsidian Automation\\.git",
+  "gitCommonDir": "D:\\Obsidian\\AI Practice\\.git",
+  "issue": "https://github.com/anthropics/claude-code/issues/46808",
+  "message": "git worktree detected — Claude Code hooks may not fire (issue #46808). Run bkit from the primary repository if hook-driven automation is required."
+}
